@@ -85,12 +85,12 @@ html, body {
   left: 30%;
   font: bold 200% Consolas, Monaco, monospace;
   border-right: .1em solid;
-  width: 13ch;
+  width: 22ch;
   /* # of chars */
-  margin: 1em 40%;
+  margin: 1em 36%;
   white-space: nowrap;
   overflow: hidden;
-  animation: typing 7s steps(13, end), blink-caret 0.5s step-end infinite alternate;
+  animation: typing 7s steps(21, end), blink-caret 0.5s step-end infinite alternate;
 }
 
 /* line 81, ../sass/nandi.scss */
