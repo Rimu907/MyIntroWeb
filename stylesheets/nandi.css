@@ -1,7 +1,7 @@
 @charset "UTF-8";
 /* line 12, ../sass/nandi.scss */
 * {
-  font-family: "Microsoft YaHei",微软雅黑,"MicrosoftJhengHei",华文细黑,STHeiti,MingLiu;
+  font-family: "Microsoft YaHei",微软雅黑,"MicrosoftJhengHei",微软雅黑,STHeiti,MingLiu;
 }
 
 /* line 15, ../sass/nandi.scss */
@@ -146,7 +146,7 @@ img.icon {
 /* line 121, ../sass/nandi.scss */
 .intro-row {
   text-align: left;
-  background-color: #1789ce;
+  background-color: #7373ad;
   padding: 1.5em;
   color: #fafafa;
 }
@@ -167,7 +167,7 @@ img.icon {
 
 /* line 139, ../sass/nandi.scss */
 .hobby {
-  background-color: #25e47a;
+  background-color: #88d7de;
 }
 
 /* line 143, ../sass/nandi.scss */
@@ -224,7 +224,7 @@ img.icon {
   top: 0%;
   left: -100%;
   color: #FFF;
-  background-color: #ffd124;
+  background-color: #aaaaff;
   z-index: 10;
   text-align: center;
 }
@@ -264,7 +264,7 @@ img.icon {
   text-align: center;
   padding-top: 5%;
   padding-bottom: 6%;
-  background-color: #1789ce;
+  background-color: #8f8fd6;
   color: #fafafa;
 }
 /* line 222, ../sass/nandi.scss */
@@ -279,7 +279,7 @@ img.icon {
 
 /* line 231, ../sass/nandi.scss */
 .content-section-d {
-  background-color: #fdbb2c;
+  background-color: #aaffff;
   color: #000;
 }
 
@@ -332,7 +332,7 @@ img.icon {
 
 /* line 274, ../sass/nandi.scss */
 .content-section-e {
-  background-color: #fc4053;
+  background-color: #55aaff;
 }
 /* line 276, ../sass/nandi.scss */
 .content-section-e h1 {
@@ -361,7 +361,7 @@ img.icon {
 }
 /* line 295, ../sass/nandi.scss */
 .boxes-sm .overlay-sm {
-  background-color: #fc4053;
+  background-color: #ffaaff;
 }
 /* line 297, ../sass/nandi.scss */
 .boxes-sm .overlay-sm p {
