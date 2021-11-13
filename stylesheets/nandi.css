@@ -97,6 +97,7 @@ html, body {
 img.icon {
   width: 200px;
   height: 200px;
+  border-radius: 40px;
 }
 
 /* line 85, ../sass/nandi.scss */
