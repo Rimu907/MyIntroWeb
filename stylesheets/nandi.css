@@ -11,8 +11,8 @@ html, body {
 }
 .qr{
 	position: absolute;
-	left: 600px;
-	top: 100px;
+	left: 30vw;
+	top: 5vw;
 }
 .qr img{
 	width: 200px;
