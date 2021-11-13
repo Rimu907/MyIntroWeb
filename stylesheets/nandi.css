@@ -9,6 +9,18 @@ html, body {
   min-height: 100%;
   min-width: 100%;
 }
+.qr{
+	position: absolute;
+	left: 600px;
+	top: 100px;
+}
+.qr img{
+	width: 200px;
+	height: 200px;
+}
+.content-section-e{
+	position: relative;
+}
 .btn-success {
     color: #fff;
     background-color: #3c79b5;
